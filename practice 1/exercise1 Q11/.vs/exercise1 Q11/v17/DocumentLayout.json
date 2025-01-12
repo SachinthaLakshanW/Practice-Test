@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SachinthaWeerakkody\\Documents\\VS Rep Sac\\exercise1 Q11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E57D668-0B40-42DA-BE52-6757BAB265D0}|exercise1 Q11\\exercise1 Q11.vcxproj|C:\\Users\\SachinthaWeerakkody\\Documents\\VS Rep Sac\\exercise1 Q11\\exercise1 Q11\\exercise1 Q11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E57D668-0B40-42DA-BE52-6757BAB265D0}|exercise1 Q11\\exercise1 Q11.vcxproj|solutionrelative:exercise1 Q11\\exercise1 Q11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "exercise1 Q11.cpp",
+              "DocumentMoniker": "C:\\Users\\SachinthaWeerakkody\\Documents\\VS Rep Sac\\exercise1 Q11\\exercise1 Q11\\exercise1 Q11.cpp",
+              "RelativeDocumentMoniker": "exercise1 Q11\\exercise1 Q11.cpp",
+              "ToolTip": "C:\\Users\\SachinthaWeerakkody\\Documents\\VS Rep Sac\\exercise1 Q11\\exercise1 Q11\\exercise1 Q11.cpp",
+              "RelativeToolTip": "exercise1 Q11\\exercise1 Q11.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-21T07:15:05.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SachinthaWeerakkody\\Documents\\VS Rep Sac\\exersice 3 Q4 part c\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11FC2028-84A0-4C5D-A796-F87EE05FD395}|exersice 3 Q4 part c\\exersice 3 Q4 part c.vcxproj|C:\\Users\\SachinthaWeerakkody\\Documents\\VS Rep Sac\\exersice 3 Q4 part c\\exersice 3 Q4 part c\\exersice 3 Q4 part c.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11FC2028-84A0-4C5D-A796-F87EE05FD395}|exersice 3 Q4 part c\\exersice 3 Q4 part c.vcxproj|solutionrelative:exersice 3 Q4 part c\\exersice 3 Q4 part c.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "exersice 3 Q4 part c.cpp",
+              "DocumentMoniker": "C:\\Users\\SachinthaWeerakkody\\Documents\\VS Rep Sac\\exersice 3 Q4 part c\\exersice 3 Q4 part c\\exersice 3 Q4 part c.cpp",
+              "RelativeDocumentMoniker": "exersice 3 Q4 part c\\exersice 3 Q4 part c.cpp",
+              "ToolTip": "C:\\Users\\SachinthaWeerakkody\\Documents\\VS Rep Sac\\exersice 3 Q4 part c\\exersice 3 Q4 part c\\exersice 3 Q4 part c.cpp",
+              "RelativeToolTip": "exersice 3 Q4 part c\\exersice 3 Q4 part c.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-12T02:24:18.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

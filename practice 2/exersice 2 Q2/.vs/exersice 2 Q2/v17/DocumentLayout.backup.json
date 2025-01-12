@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SachinthaWeerakkody\\Documents\\VS Rep Sac\\exersice 2 Q2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F388560E-07E8-4011-BE02-2557067FB238}|exersice 2 Q2\\exersice 2 Q2.vcxproj|C:\\Users\\SachinthaWeerakkody\\Documents\\VS Rep Sac\\exersice 2 Q2\\exersice 2 Q2\\exersice 2 Q2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F388560E-07E8-4011-BE02-2557067FB238}|exersice 2 Q2\\exersice 2 Q2.vcxproj|solutionrelative:exersice 2 Q2\\exersice 2 Q2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F388560E-07E8-4011-BE02-2557067FB238}|exersice 2 Q2\\exersice 2 Q2.vcxproj|C:\\Users\\SachinthaWeerakkody\\Documents\\VS Rep Sac\\exersice 2 Q2\\exersice 2 Q2\\manipulation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F388560E-07E8-4011-BE02-2557067FB238}|exersice 2 Q2\\exersice 2 Q2.vcxproj|solutionrelative:exersice 2 Q2\\manipulation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "exersice 2 Q2.cpp",
+              "DocumentMoniker": "C:\\Users\\SachinthaWeerakkody\\Documents\\VS Rep Sac\\exersice 2 Q2\\exersice 2 Q2\\exersice 2 Q2.cpp",
+              "RelativeDocumentMoniker": "exersice 2 Q2\\exersice 2 Q2.cpp",
+              "ToolTip": "C:\\Users\\SachinthaWeerakkody\\Documents\\VS Rep Sac\\exersice 2 Q2\\exersice 2 Q2\\exersice 2 Q2.cpp*",
+              "RelativeToolTip": "exersice 2 Q2\\exersice 2 Q2.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-11T06:24:01.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "manipulation.h",
+              "DocumentMoniker": "C:\\Users\\SachinthaWeerakkody\\Documents\\VS Rep Sac\\exersice 2 Q2\\exersice 2 Q2\\manipulation.h",
+              "RelativeDocumentMoniker": "exersice 2 Q2\\manipulation.h",
+              "ToolTip": "C:\\Users\\SachinthaWeerakkody\\Documents\\VS Rep Sac\\exersice 2 Q2\\exersice 2 Q2\\manipulation.h",
+              "RelativeToolTip": "exersice 2 Q2\\manipulation.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-11T11:48:01.286Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
